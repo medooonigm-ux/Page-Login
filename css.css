@@ -1,0 +1,84 @@
+
+.box{
+width: 500px;
+     background:#000000;
+    margin:100px auto;
+      padding:30px;
+    text-align:center;
+   
+  
+    box-shadow:0 0 10px rgba(196, 176, 176, 0.744);
+
+}
+
+
+body{
+
+    margin:0;
+    padding:0;
+    background:#fff;
+   
+
+}
+
+
+
+h2{
+
+    color:#92e1ed;
+    margin-bottom:20px;
+
+}
+button{
+
+    width:100%;
+    padding:10px;
+    background:#7577f5;
+    color:white;
+    border:none;
+    
+    cursor:pointer;
+
+}
+
+button:hover{
+
+    background:#1eb1c7;
+
+}
+
+
+input{
+
+    width:100%;
+    padding:10px;
+    margin:10px 0;
+    background:transparent;
+    border:1px solid #ced4da;
+    color:white;
+
+}
+
+
+p{
+
+    color:white;
+
+}
+
+a{
+
+    color:#39bfd4;
+    text-decoration:none;
+
+}
+
+#loginMsg{
+
+    color:red;
+
+}
+
+#registerMsg{
+     color:red;
+}
